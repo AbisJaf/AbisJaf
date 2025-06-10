@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbisJaf
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on frontend projects.
+- 👀 I’m interested in Artificial intelligence
+- 🌱 I’m currently working on different ML projects.
+- 💞️ I’m looking to collaborate on ML projects.
 
 <!---
 AbisJaf/AbisJaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
